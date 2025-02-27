@@ -3,7 +3,7 @@
 ## Overview
 In this game Connect 4 is played against chess. The chess player will try to stop the connect 4 player from making a 4 in-a-row.
 
-To make it a bit more fair, the chess player gets the first 3 moves and the Connect 4 player is limited to 15 tokens.
+To make it a bit more fair, the chess player gets the first 5 moves and the Connect 4 player is limited to 15 tokens.
 
 The chess player wins if the opponent runs out of tokens.  
 
